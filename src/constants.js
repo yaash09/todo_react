@@ -1,0 +1,1 @@
+export const APIUrl = `https://localhost:44382/api/notes`
